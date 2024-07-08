@@ -22,7 +22,6 @@ void printTxt(const string& file) {
 
 
 int main(int option) {
-
     /// Present main menu
     printTxt("Menu.txt");
     cout << "[1] to Start Game\n[2] to Exit:\n" << endl;
